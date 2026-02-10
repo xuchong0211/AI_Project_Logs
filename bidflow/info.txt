@@ -1,0 +1,1 @@
+here is my log folder for today, /Users/prb/projects/logs/AI_Project_Logs/bidflow, please implement this fearture and save your plan into a md file, the file name is including the today's date and time
